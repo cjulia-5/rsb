@@ -36,8 +36,8 @@
     padding-bottom: 3rem;
   }
   .rock, .paper, .scissors {
-    width: 100px;
-    height: 70px;
+    max-width: 50;
+    max-height: 50;
     margin: 1rem 0;
     display: flex;
     flex-direction: column;
